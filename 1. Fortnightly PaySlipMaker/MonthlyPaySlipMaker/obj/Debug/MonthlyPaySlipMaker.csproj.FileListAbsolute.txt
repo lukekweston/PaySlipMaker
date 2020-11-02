@@ -1,0 +1,51 @@
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.exe.config
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.exe
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.pdb
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.csprojResolveAssemblyReference.cache
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.Form1.resources
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.Properties.Resources.resources
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.csproj.GenerateResource.Cache
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.exe
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.pdb
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\OpenXmlSdkTool.ClassExplorer.dll
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\OpenXmlSdkTool.Core.dll
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\OpenXmlSdkTool.DocumentReflector.dll
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\OpenXmlSdkTool.OpenXmlDiff.dll
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\OpenXmlSdkTool.OpenXmlValidator.dll
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\OpenXmlSdkTool.PackageInspector.dll
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.exe.manifest
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.application
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.exe.manifest
+C:\Users\lukew\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.application
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.exe.config
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.exe
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.pdb
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.exe.manifest
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.application
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.exe
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.pdb
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.Form1.resources
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.Properties.Resources.resources
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.csproj.GenerateResource.Cache
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.exe.manifest
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.application
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lkw19\Documents\VSNZ WORK\MonthlyPaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.csprojResolveAssemblyReference.cache
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.exe.config
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.exe
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.pdb
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.exe.manifest
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.application
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.exe
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\bin\Debug\MonthlyPaySlipMaker.pdb
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.csprojResolveAssemblyReference.cache
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.Form1.resources
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.Properties.Resources.resources
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.csproj.GenerateResource.Cache
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.exe.manifest
+C:\Users\lkw19\Documents\VSNZ WORK\1. Fortnightly PaySlipMaker\MonthlyPaySlipMaker\obj\Debug\MonthlyPaySlipMaker.application
